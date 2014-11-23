@@ -15,10 +15,10 @@
             "z": 1
         }, 
         "files": {
-            "datfile_location": "Danchi_1x3.dat", 
+            "datfile_location": "Danchi_2x4.dat", 
             "datfile_write": true, 
             "pakfile_location": "", 
-            "pngfile_location": "Danchi_1x3_Source.png"
+            "pngfile_location": "Danchi_2x4_Source.png"
         }, 
         "images": [
             [
